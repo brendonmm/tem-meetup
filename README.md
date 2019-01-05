@@ -1,6 +1,3 @@
-## Welcome to GitHub Pages
-
-
 # Tem Meetup?
 
 Calendário com os principais eventos (online e presenciais) em SP, seja na capital, região metropolitana e em outras cidades do estado.
